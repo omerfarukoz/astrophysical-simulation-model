@@ -20,7 +20,7 @@ To run the Astrophysical Simulation Model, Python must be installed on your syst
 
 ```bash
 git clone https://github.com/username/astrophysical-simulation-model.git
-cd astrological-simulation-model
+cd astrophysical-simulation-model
 python main.py
 ```
 
