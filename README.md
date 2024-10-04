@@ -1,5 +1,8 @@
 # Astrophysical Simulation Model
 
+![Example_Image](https://github.com/omerfarukoz/astrophysical-simulation-model/raw/main/example.gif)
+*(The GIF size has been reduced by fixing the FPS value to 2. The software operates smoothly.)*
+
 ## Overview
 
 **Astrophysical Simulation Model** is a Python application developed to simulate the gravitational interactions and dynamic behaviors of celestial bodies in a two-dimensional space environment. This model allows users to analyze the interactions, mergers, and trajectories of various planets, taking into account their physical properties such as mass, radius, and velocity.
