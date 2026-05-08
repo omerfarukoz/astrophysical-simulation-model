@@ -80,3 +80,4 @@ Simülasyon modelinin işlevselliğini ve performansını geliştirmeye yönelik
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için lütfen [LICENSE](LICENSE) dosyasına başvurunuz.
+ 
